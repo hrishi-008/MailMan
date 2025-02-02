@@ -1,0 +1,5 @@
+# demo folder
+demo/
+mailman-env
+__pycache__/
+.DS_Store
